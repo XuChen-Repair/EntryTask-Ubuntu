@@ -1,3 +1,0 @@
-AbstractFactory.lo: src/AbstractFactory.cpp src/AbstractFactory.h
-
-src/AbstractFactory.h:

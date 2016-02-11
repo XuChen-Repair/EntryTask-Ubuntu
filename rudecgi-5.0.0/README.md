@@ -1,4 +1,0 @@
-rudecgi
-=======
-
-C++ CGI library

@@ -1,3 +1,0 @@
-WordMatch.lo: src/WordMatch.cpp src/WordMatch.h
-
-src/WordMatch.h:

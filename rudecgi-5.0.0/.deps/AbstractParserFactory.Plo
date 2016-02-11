@@ -1,4 +1,0 @@
-AbstractParserFactory.lo: src/AbstractParserFactory.cpp \
- src/AbstractParserFactory.h
-
-src/AbstractParserFactory.h:

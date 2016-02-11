@@ -1,3 +1,0 @@
-FormdataExtractor.lo: src/FormdataExtractor.cpp src/FormdataExtractor.h
-
-src/FormdataExtractor.h:
