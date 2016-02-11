@@ -1,0 +1,6 @@
+AbstractImplementation.lo: src/AbstractImplementation.cpp \
+ src/AbstractImplementation.h src/Implementation.h
+
+src/AbstractImplementation.h:
+
+src/Implementation.h:

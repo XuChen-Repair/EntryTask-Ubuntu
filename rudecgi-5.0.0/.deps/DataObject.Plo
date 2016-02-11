@@ -1,0 +1,3 @@
+DataObject.lo: src/DataObject.cpp src/DataObject.h
+
+src/DataObject.h:
